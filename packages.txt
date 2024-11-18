@@ -1,2 +1,4 @@
-npm i react-native-mmkv  npm i react-native-gesture-handler  npm i react-native-safe-area-context  npm i react-i18next  npm i @shopify/flash-list   npm i react-native-ico-flags   
-npm i react-native-uuid   npm i expo-sensors  npm i react-native-reanimated  
+npm i react-native-mmkv  npm i react-native-gesture-handler  npm i react-native-safe-area-context  npm i react-i18next  npm i @shopify/flash-list   npm i expo-sensors  npm i react-native-reanimated 
+
+not in new arch
+npm i react-native-uuid  npm i react-native-ico-flags
